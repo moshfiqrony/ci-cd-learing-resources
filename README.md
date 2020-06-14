@@ -4,4 +4,5 @@
 3. [What is Sanity Testing?](https://www.youtube.com/watch?v=eiqh4hdRNxw)
 4. [Docker install and usage](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 5. [Jenkins install and usage](https://www.youtube.com/watch?v=YyPMhKdBCxw)
+6. [Jenkins Course](https://www.youtube.com/watch?v=yz3tyeA3Fe0&list=PLS1QulWo1RIbY8xXPqz6ad_sNHkIP3IXI)
 
