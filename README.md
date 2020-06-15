@@ -6,3 +6,8 @@
 5. [Jenkins install and usage](https://www.youtube.com/watch?v=YyPMhKdBCxw)
 6. [Jenkins Course](https://www.youtube.com/watch?v=yz3tyeA3Fe0&list=PLS1QulWo1RIbY8xXPqz6ad_sNHkIP3IXI)
 
+# My Cheatsheet
+1. Connect or start existing container 
+```
+docker start -i CONTAINER_NAME
+```
