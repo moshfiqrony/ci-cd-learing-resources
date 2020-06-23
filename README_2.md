@@ -9,11 +9,11 @@ sudo apt install awscli
 ```
 aws configure
 ```
-it will ask for these
-  - AWS Access Key ID [None]
-  - AWS Secret Access Key [None]
-  - Default region name [None]
-  - Default output format [None] - **leave this empty**
+    it will ask for these
+      - AWS Access Key ID [None]
+      - AWS Secret Access Key [None]
+      - Default region name [None]
+      - Default output format [None] - **leave this empty**
   
 3. **Install aws codeDeploy agent**
 
@@ -25,4 +25,6 @@ sudo apt-get install wget
 sudo wget https://aws-codedeploy-us-east-2.s3.us-east-2.amazonaws.com/latest/install
 chmod +x ./install
 sudo ./install auto
+sudo service codedeploy-agent start
+sudo service codedeploy-agent status
 ```
